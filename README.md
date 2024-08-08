@@ -1,2 +1,2 @@
 # Healthify Android App 
-# Technologies :- Java , XML , MySQL
+# Technologies :- Java , XML , SQLite
